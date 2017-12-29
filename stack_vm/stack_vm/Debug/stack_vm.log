@@ -1,0 +1,6 @@
+﻿  stack.cpp
+  main.cpp
+c:\users\aadocenko\desktop\задания по си\stack_vm\stack_vm\main.cpp(29): warning C4101: regs: неиспользованная локальная переменная
+  Создание кода...
+  stack_vm.vcxproj -> C:\Users\aadocenko\Desktop\задания по си\stack_vm\Debug\stack_vm.exe
+  stack_vm.vcxproj -> C:\Users\aadocenko\Desktop\задания по си\stack_vm\Debug\stack_vm.pdb (Partial PDB)
